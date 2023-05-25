@@ -1,9 +1,9 @@
 ---
-name: Really Evil Kevin
+name: Mohammad Reza FatehiNia
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: https://Fatehinia
+photo: M-FatehiNia.jpg
 ---
 
 I like teaching Computer Science!
