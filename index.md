@@ -21,7 +21,7 @@ Ferdowsi University of Mashhad, Fall 2023 (1402 SH)
 </div>
 
 {: .highlight }
-> Welcome to Deep Learning Course!
+> Welcome to the Course!
 
 
 <a name="lectures"></a>
