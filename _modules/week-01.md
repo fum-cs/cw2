@@ -1,23 +1,13 @@
 ---
-title: Introduction to Java
+title: Introduction and Course Overview
+date: 1402-08-02
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+* [Instructor's Introduction](https://fum-cs.slack.com/team/U062Y7MB1T3)
+* [Dotin Company Introduction](https://www.dotin.ir/about/), [Job Opportunity](https://www.dotin.ir/school/)
+* [Course Purpose](pages/course-purpose)
+* [What We Learn](pages/what-we-learn)
+* [Prerequisites](pages/prerequisites)
+* [Project Ideas](pages/project-ideas)
+* [Grading Criteria](pages/grading-criteria)
+* [Software Development Teams](https://www.scrum.org/resources/scrum-team)
