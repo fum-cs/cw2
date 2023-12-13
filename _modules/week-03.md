@@ -9,7 +9,7 @@ date: 1402-08-23
 * [Comparing Primitive and Reference Types](https://www.baeldung.com/java-primitives-vs-objects) - Analyzing differences and practical use cases.
 * [Introduction to Maven](https://maven.apache.org/what-is-maven.html) - Basics of Maven and library management via [mvnrepository.com](https://mvnrepository.com/).
 * [JUnit Testing and Test-Driven Development (TDD)](https://www.vogella.com/tutorials/JUnit/article.html) - Implementing palindrome function tests and exploring TDD principles.
-* [The TDD Cycle Explained](https://developer.ibm.com/articles/5-steps-of-test-driven-development/) - Emphasizing the importance of test-first development.
+* [The TDD Cycle Explained](https://developer.ibm.com/articles/5-steps-of-test-driven-development/) - Emphasizing the importance of test-first development. See [this GitHub repository](https://github.com/FUM-ComputerWorkshop/TDD) for the class example.  
 * [Basics of Remote Procedure Calls (RPC)](https://www.geeksforgeeks.org/remote-procedure-call-rpc-in-operating-system/) - Understanding RPC and its TCP connections.
 * [The REST Architectural Style by Roy Fielding](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - An introduction to the concepts of REST.
 * [Key Specifications of RESTful Systems](https://www.restapitutorial.com/lessons/whatisrest.html) - Delving into statelessness, [HTTP verbs (rfc7231)](https://datatracker.ietf.org/doc/html/rfc7231#section-4), [HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status), and cacheability.
