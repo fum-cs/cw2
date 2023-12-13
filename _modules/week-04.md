@@ -1,5 +1,5 @@
 ---
-title: Week 04 - Building a College System using Spring Boot  
+title: Session 04 - Building a College System using Spring Boot  
 date: 1402-09-07
 ---
 

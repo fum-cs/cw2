@@ -1,5 +1,5 @@
 ---
-title: Week 03 - Java Build Tools and RESTful Systems  
+title: Session 03 - Java Build Tools and RESTful Systems  
 date: 1402-08-23
 ---
 

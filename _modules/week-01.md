@@ -1,5 +1,5 @@
 ---
-title: Introduction and Course Overview  
+title: Session 01 - Introduction and Course Overview  
 date: 1402-08-02
 ---
 
