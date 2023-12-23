@@ -1,5 +1,5 @@
 // M. Amintoosi
-// Function
+// Here we used a Function and introduce auto keyword
 // auto
 #include <iostream>
 #include <limits>
@@ -9,7 +9,7 @@ auto find_farthest(int v[], int n)
 {
     auto ans = -1;
     for (int i = 0; i < n; i++)
-        for (int j = 0; j < n; j++)
+        for (int j = i+1; j < n; j++)
             if (abs(v[i] - v[j]) > ans)
                 ans = abs(v[i] - v[j]);
     return ans;
