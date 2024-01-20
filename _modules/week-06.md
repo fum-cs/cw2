@@ -21,6 +21,3 @@ date: 1402-10-12
 * [Implementing Multi-Stage Builds](https://docs.docker.com/develop/develop-images/multistage-build/) - Using multi-stage builds in Docker to reduce image size and improve efficiency.
 * [Questions and Answers](pages/docker-qa) - Answers to questions that students asked during the session.
 
-
----
-
