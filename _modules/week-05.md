@@ -10,4 +10,4 @@ date: 1402-09-21
 * [Builder Design Pattern](https://refactoring.guru/design-patterns/builder) - Understand the Builder design pattern and implement it using [Lombok's Builder annotation](https://projectlombok.org/features/Builder).
 * [Using H2 Database and its Console](https://www.youtube.com/watch?v=z5O6bSiRPk8&list=LL) - Integrate an H2 database and its console for a simple database solution in Spring Boot 3.x.
 * [Transitioning to H2 Database and JPA](https://mkyong.com/spring-boot/spring-boot-spring-data-jpa/) - Replace Java data structures with H2 Database using JPA for enhanced data persistence. Also, you can view these videos to implement JPA: [Video 1](https://www.youtube.com/watch?v=du99WcQztNU), [Video 2](https://www.youtube.com/watch?v=z3HnFBzn7DI), [Video 3](https://www.youtube.com/watch?v=lpcOSXWPXTk&t=479s).
-
+* [The code we discussed in the class](https://github.com/FUM-ComputerWorkshop/fum-session-05) - Here is the code we discussed during the session. 
