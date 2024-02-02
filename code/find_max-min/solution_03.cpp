@@ -14,7 +14,7 @@ auto find_farthest(vector<int> v) -> int
 {
     auto ans = -1;
     for (int i = 0; i < v.size(); i++)
-        for (int j = 0; j < v.size(); j++)
+        for (int j = i+1; j < v.size(); j++)
             if (abs(v[i] - v[j]) > ans)
                 ans = abs(v[i] - v[j]);
     return ans;
