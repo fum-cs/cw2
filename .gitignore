@@ -289,3 +289,8 @@ TSWLatexianTemp*
 *.fls
 *.fdb_latexmk
 *.gz
+.ipynb_checkpoints/
+_sources/
+_build/
+*.pt
+*.pkl
